@@ -1,4 +1,0 @@
-interface:
-  display_name: "Douyin Playwright Outreach"
-  short_description: "Search creators and send approved Douyin DMs"
-  default_prompt: "Use $douyin-playwright-outreach to find Douyin creators and send approved business cooperation DMs with Playwright."
